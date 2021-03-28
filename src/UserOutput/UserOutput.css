@@ -1,0 +1,10 @@
+.Body {
+    color: rgb(135, 231, 106);
+    font-size: larger;
+    width: 40%;
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid rgb(235, 157, 157);
+    background-color: rgb(94, 87, 87);
+    text-align: center;
+  }
