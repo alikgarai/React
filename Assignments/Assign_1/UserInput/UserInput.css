@@ -1,0 +1,7 @@
+.Frame {
+  background-color: #191a1b;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
