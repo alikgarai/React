@@ -9,3 +9,4 @@
 - git remote add origin "[git repo name]"
 - git push -u origin master
 - git checkout -b [branch name] -> creates a new branch if it doesn't exist
+- git rm --cached [filename] -> remove files from staged area & move back to working area
