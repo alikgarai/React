@@ -1,8 +1,8 @@
-# How to use?
+## How to use?
 
-1. Download the folder.
-2. Create a new app using create-react-app command.
-3. Replace the contents of your "src" folder with the downloaded content.
+1. Download the project folder.
+2. Run "npm install" in the extracted folder
+3. Run "npm start" to view the project
 
 
 ## Assign_1
