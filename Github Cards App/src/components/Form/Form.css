@@ -1,0 +1,17 @@
+form {
+  border: thin solid #ddd;
+  background-color: #fbfbfb;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  font-size: 20px;
+}
+
+button {
+  font-size: 20px;
+  margin-left: 10px;
+}
